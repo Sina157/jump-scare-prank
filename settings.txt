@@ -1,2 +1,2 @@
 TimeToStart = 3
-VolumeIncrease = 60
+VolumeIncrease = 50
