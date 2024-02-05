@@ -45,5 +45,6 @@ background_label = Label(window, image=background_image)
 background_label.place(x=0, y=0, relwidth=1, relheight=1)
 background_label.configure(background='black')
 # Run the Tkinter event loop
+window.attributes('-topmost', True)
 window.mainloop()
 
